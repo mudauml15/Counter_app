@@ -1,13 +1,13 @@
 function increment(){
 
-    let Add = 2;
-    Add++;
-console.log(Add);
+    let Addition = 0;
+    Addition++;
+console.log(Addition);
 }
 
 function decrement(){
 
-    let Add = 2;
-    Add++;
-console.log(Add);
+    let Subtraction = 0;
+    Subtraction --;
+console.log(Subtraction);
 }
