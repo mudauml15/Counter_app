@@ -1,5 +1,7 @@
 function increment(){
 
-    let a = 1;
-    console.log(++a11);
+    let Add = 2;
+    Add++;
+console.log(Add);
+
 }
