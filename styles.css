@@ -17,11 +17,14 @@ body {
 }
 
 button {
+	justify-content: center;
+	align-items: center;
 	width: 90px;
 	height: 60px;
 	font-size: 30px;
 	background-color: green;
 	color: honeydew;
+	
 }
 
 
@@ -37,6 +40,7 @@ h2 {
 	color: black;
 	margin: 0 50px;
 	font-size: 45px;
+	
 }
 
 
@@ -44,6 +48,12 @@ h2 {
 h1 {
 	font-size: 35px;
 	color: green;
-	text-align: center;
+	justify-content: center;
+	align-items: center;
 	padding-left: 10%;
+}
+
+h3 {
+	justify-content: center;
+	align-items: center;
 }

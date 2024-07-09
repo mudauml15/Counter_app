@@ -14,7 +14,7 @@ function decrement(){
         // console.log(counter);
 
 let results = document.getElementById('display');
-    results.innerHTML= counter
+    results.innerHTML = counter
     } else {
         alert("Decrement stopped.");
     }
