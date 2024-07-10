@@ -16,9 +16,10 @@ function decrement(){
 let results = document.getElementById('display');
     results.innerHTML = counter
     } else {
-        alert("Decrement stopped.");
+        alert("Counter has stopped.");
     }
 }
+
 
 
 
